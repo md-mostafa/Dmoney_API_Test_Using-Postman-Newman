@@ -2,11 +2,11 @@ const newman = require('newman');
 
 newman.run({
     collection: './src/collection/DMoney_API_Test.postman_collection.json',
-    reporters: 'htmlextra',
+    reporters: ['htmlextra', 'cli'],
     iterationCount: 1,
     reporter: {
         htmlextra: {
-            export: './Reports/report.html',
+            export: './reports/report.html',
         }
     }
 }, function(err){
