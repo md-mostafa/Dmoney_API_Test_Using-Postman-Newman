@@ -1,0 +1,11 @@
+{
+  "name": "dmoney_api_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/runner/runner.js"
+  },
+  "author": "md mostafa akash",
+  "license": "ISC"
+}
