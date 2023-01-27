@@ -6,6 +6,8 @@ This project uses postman and newman to test [DMoney API](http://dmoney.roadtoca
 ### API Documentation
 - [Dmoney API Test](https://documenter.getpostman.com/view/12316264/2s8ZDeUKKL)
 
+
+
 ### Test Scenarios
 - Login as admin
 - User creations
@@ -43,4 +45,4 @@ npm run test
 ```
 
 ### Generated reports
-![report](Screeenshots/reports_ss.jpg)
+![report](screenshots/Newman-Summary-Report.png)
