@@ -18,8 +18,11 @@ This project uses postman and newman to test [DMoney API](http://dmoney.roadtoca
 
 ### Test Cases
 The test cases are written in a standard test format
-- [DMoney API **TEST CASES**](https://docs.google.com/spreadsheets/d/1OfFaWJP-qYdu_CYSqt91RDGwIn1UYZ95KDtUym4f5NE/edit?usp=sharing)
+- [DMoney API **Test Cases**](https://docs.google.com/spreadsheets/d/1OfFaWJP-qYdu_CYSqt91RDGwIn1UYZ95KDtUym4f5NE/edit?usp=sharing)
 
+### Bug Report
+Written in a standard bug report format
+- [DMoney API **Bug Report**](https://docs.google.com/spreadsheets/d/149HRZVbf2dHvSBUkl85E2cmW78DyTaUisMmo0xfrZso/edit?usp=sharing)
 ---
 
 ### Prerequisites
